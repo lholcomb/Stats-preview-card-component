@@ -41,4 +41,4 @@ Users should be able to:
 
 - Website - [LinkTree](https://linktr.ee/lholcomb)
 - Frontend Mentor - [@lholcomb](https://www.frontendmentor.io/profile/lholcomb)
-- Twitter - [@yourusername](https://www.twitter.com/lee_holcomb)
+- Twitter - [@lee_holcomb](https://www.twitter.com/lee_holcomb)
