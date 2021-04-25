@@ -81,7 +81,7 @@ h2{
 
 @media (max-width: 1145px){
     .card{
-    height: 85vh;
+    height: 100%;
     width: 90vw;
     display: flex;
     flex-direction: column;
